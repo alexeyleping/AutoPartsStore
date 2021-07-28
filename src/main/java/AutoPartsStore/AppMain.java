@@ -19,5 +19,7 @@ public class AppMain extends Application {
         primaryStage.setHeight(250);
         primaryStage.show();
         System.out.println("Hello!");
+        System.out.println("Hello!");
+        System.out.println("Hello!");
     }
 }
