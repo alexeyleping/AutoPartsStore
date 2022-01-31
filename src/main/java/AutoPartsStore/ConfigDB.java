@@ -1,3 +1,5 @@
+//Старый конфиг
+
 package AutoPartsStore;
 
 public class ConfigDB {

@@ -1,3 +1,5 @@
+//Стартовая
+
 package AutoPartsStore;
 
 import javafx.application.Application;

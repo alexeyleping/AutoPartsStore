@@ -1,3 +1,4 @@
+//Старые данные, не используется
 package AutoPartsStore;
 
 public class Const {

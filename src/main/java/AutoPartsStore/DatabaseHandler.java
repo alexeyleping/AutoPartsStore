@@ -1,3 +1,4 @@
+//Старый хэндлер, не используется
 package AutoPartsStore;
 
 import java.sql.Connection;
